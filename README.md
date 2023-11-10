@@ -1,12 +1,16 @@
 <h1 align="center"> EFI Lenovo Yoga 520-14IKB Intel-core i7 8th Generation </h1>
 <h3 align="center"> Hackintosh EFI partition with support for macOS (Monterey) </h3>
 
+![img](img/Screenshot%202023-11-10%20at%2016.46.38.png)
+
+Absolutely usable with full touchscreen & digitizer experience
+
 # What works
-- Full iGPU support Intel UHD (even PathTracing tested)
-- Keyboard with lighting and shortcuts for brightness and volume.
-- __touchpad with gestures__.
-- __touch screen__.
-- __digitizer__ (aka stylus)
+- Full iGPU support Intel UHD (even path tracing tested), OpenCL also works
+- Keyboard with lighting and shortcuts for brightness and volume
+- __touchpad with gestures__ 🤍
+- __touch screen__ 🤍
+- __digitizer__ (aka stylus) 🤍
 
 Other stuff
   
@@ -14,7 +18,7 @@ Other stuff
 - usb 3.0 e USB type-C.
 - battery indicator.
 - webcam
-- card Reader.
+- card Reader
 - audio
 - HDMI connection (video and audio).
 - brightness control keys f11 e f12. 
@@ -22,11 +26,11 @@ Other stuff
 - connect audio jack with microphone. 
 
 
-___Please reset everytime you startup your PC, otherwise touchpad & touchscreen & digitizer will not work___
+___Please reset NVRAM everytime you startup your PC, otherwise touchpad & touchscreen & digitizer will not work___
 
 
 # What does not work
-- sleep mode
+- sleep mode (either touchscreen works or (sleep mode & battery if you won't reset NVRAM))
 - Fingerprint reader
 - working from battery causes sudden reboots
 - any VPN + WiFi casues reboots sometimes
@@ -34,12 +38,12 @@ ___Please reset everytime you startup your PC, otherwise touchpad & touchscreen 
 
 
 # Characteristics
-- Screen: 14 inches with HD resolution (1366 x 768 pixels) and touch sensitive,
+- Screen: 14 inches with HD resolution (1366 x 768 pixels) and touch sensitive & digitizer,
 - Processor: Core i8 8th gen,
 - RAM memory: 16 GB,
 - Graphics Card: Intel UHD,
-- Storage: HD 500 GB, SSD 128 GB
-- Ports and Interfaces: USB 3.0, USB-C, HDMI, headphone jack, Bluetooth and Wi-Fi, memory card reader,
+- Storage: SSD 256 GB, SSD 128 GB
+- Ports and Interfaces: USB 3.0, USB-C, HDMI, headphone jack, Bluetooth and Wi-Fi, memory card reader
 - Dimensions: 33 x 23.5 x 1.9 cm,
 - Weight: 1.74 kilos
 
